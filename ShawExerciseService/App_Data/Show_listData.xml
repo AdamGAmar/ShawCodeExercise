@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Show>
+    <Id>1</Id>
+    <Name>Rookie Blue</Name>
+    <BackgroundImageUri>http://www.google.com/images/srpr/logo11w.png</BackgroundImageUri>
+  </Show>
+  <Show>
+    <Id>2</Id>
+    <Name>Rookie Green</Name>
+    <BackgroundImageUri>http://www.google.com/images/srpr/logo11w.png</BackgroundImageUri>
+  </Show>
+  <Show>
+    <Id>4</Id>
+    <Name>Bob's Burgers</Name>
+    <BackgroundImageUri>http://www.google.com/images/srpr/logo11w.png</BackgroundImageUri>
+  </Show>
+</ArrayOfShow>

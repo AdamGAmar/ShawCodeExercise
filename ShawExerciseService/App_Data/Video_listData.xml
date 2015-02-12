@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVideo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Video>
+    <Id>1</Id>
+    <CategoryId>1</CategoryId>
+    <ParentShowId>1</ParentShowId>
+    <Season>1</Season>
+    <Episode>1</Episode>
+  </Video>
+</ArrayOfVideo>
